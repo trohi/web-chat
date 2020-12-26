@@ -6,7 +6,7 @@
 						<div class="card-header msg_head">
 							<div class="d-flex bd-highlight">
 								<div class="user_info">
-									<span>Chat with </span>
+									<span> </span>
 								</div>
                 <input @click.prevent="logout" class="btn btn-danger btn-rounded btn-sm" id="logout_btn" type="button" value="Logout"/>
 							</div>
